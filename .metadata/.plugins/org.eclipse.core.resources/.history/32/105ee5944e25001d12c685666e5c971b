@@ -21,7 +21,6 @@ public class Backjun5 {
 		
 		}
 		System.out.println(a + " " + b);
-		System.out.println();
 	}
 
 }
