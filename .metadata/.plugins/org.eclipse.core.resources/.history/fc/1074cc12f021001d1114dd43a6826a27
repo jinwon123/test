@@ -1,0 +1,10 @@
+package p03.anonymous_class;
+
+public class AnonyClassEx {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

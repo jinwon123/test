@@ -1,0 +1,10 @@
+package p05.class_class;
+
+public class ReflectionEx {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

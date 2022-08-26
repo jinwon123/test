@@ -1,0 +1,10 @@
+package p03.object_class_method_practice;
+
+public class PointEx {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

@@ -1,0 +1,5 @@
+package p10.arrays_method2;
+
+public class Member implements Comparable<T> {
+
+}

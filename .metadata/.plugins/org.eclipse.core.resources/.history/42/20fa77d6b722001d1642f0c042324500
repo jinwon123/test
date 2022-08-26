@@ -1,0 +1,6 @@
+package p06.user_defined_exception;
+
+// Exception의 자식 class로 user defined Exception 선언 가능
+public class BalanceInSufficientException extends Exception {
+
+}

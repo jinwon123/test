@@ -1,0 +1,10 @@
+package p12.random_class;
+
+public class RandomEx {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

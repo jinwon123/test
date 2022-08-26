@@ -1,0 +1,21 @@
+package p05.throw_exception;
+
+public class ThrowExceptionEx {
+
+	public static void main(String[] args) {
+		
+		findClass();
+	}
+
+	// method 선언문에서 throws ClassNotFoundException 의미 
+	// - method 내부에서 ClassNotFoundException이 발생이 되면 method를 호출한 method로 Exception을 넘김 (throw)
+	public static void findClass() {
+		
+		try {
+			Class cls = Class.forName("java.lang.String2");
+		} catch (ClassNotFoundException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
+	}
+}

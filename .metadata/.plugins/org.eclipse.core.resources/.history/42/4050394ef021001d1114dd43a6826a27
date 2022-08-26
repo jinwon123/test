@@ -1,0 +1,13 @@
+package p03.anonymous_class;
+
+public class AnonyClassEx {
+
+	public static void main(String[] args) {
+		AnonyClass ac = new AnonyClass();
+		
+		ac.person.wake();
+		
+		ac.method1();
+	}
+
+}

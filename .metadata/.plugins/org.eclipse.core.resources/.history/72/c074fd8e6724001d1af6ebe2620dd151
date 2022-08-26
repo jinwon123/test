@@ -1,0 +1,20 @@
+package p01.using_generic;
+
+// Box<String> : data type (T가 String이라는 의미)
+public class BoxEx {
+
+	public static void main(String[] args) {
+		Box<String> b1 = new Box<String>();
+		b1.setT("hello");
+		String str = b1.getT();
+		
+		Box<Apple> a1 = new Box<Apple>();
+		a1.setT(new Apple());
+		Apple apple = a1.getT();
+		
+		Box<Integer> i1 = new Box<Integer>();
+		i1.setT(10);							// i1.setT(new Integer(10));
+		Integer ii = i1.getT();
+	}
+
+}

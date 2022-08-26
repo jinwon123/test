@@ -1,0 +1,14 @@
+package p10.arrays_method2;
+
+public class SortEx {
+
+	public static void main(String[] args) {
+		int[] scores = {99, 95, 44, 97, 98};
+		
+		for (int i=0; i<scores.length; i++) {
+			System.out.print(scores[i] + " ");
+		}
+		System.out.println();
+	}
+
+}

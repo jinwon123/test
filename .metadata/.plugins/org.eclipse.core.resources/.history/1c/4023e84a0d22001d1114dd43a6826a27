@@ -1,0 +1,14 @@
+package p02.runtime_exception;
+
+public class NullPointerExceptionEx {
+
+	public static void main(String[] args) {
+		String data = null;
+		
+		// println method에서 parameter로 넘어오는 String 인스턴스가 null이면 null로 출력
+		System.out.println(data);
+		System.out.println(data.toString());
+
+	}
+
+}

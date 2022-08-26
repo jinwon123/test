@@ -1,0 +1,22 @@
+package p01.object_class_equals;
+
+public class ObjectEqualsEx {
+
+	public static void main(String[] args) {
+		Object obj1 = new Object();
+		Object obj2 = new Object();
+		int x = 10;
+		int y = 10;
+		
+		boolean result = obj1.equals(obj2);
+		System.out.println("result : " + result);
+		
+		result = (obj1 == obj2); // heap memory의 주소값 비교
+		System.out.println("result : " + result);
+		
+		result = (x == y);		// 값을 비교
+		System.out.println("result : " + result);
+
+	}
+
+}

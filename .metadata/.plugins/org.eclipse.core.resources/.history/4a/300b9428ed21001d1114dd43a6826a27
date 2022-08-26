@@ -1,0 +1,5 @@
+package p02.nested_interface;
+
+public class CallListener {
+
+}

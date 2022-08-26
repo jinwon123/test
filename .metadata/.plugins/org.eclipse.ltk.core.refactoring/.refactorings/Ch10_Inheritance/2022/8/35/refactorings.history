@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;GeometricObject.java&apos; to &apos;Ch11_Interface/src/quiz01.quiz05&apos;&#x0A;- Original project: &apos;Ch10_Inheritance&apos;&#x0A;- Destination element: &apos;Ch11_Interface/src/quiz01.quiz05&apos;&#x0A;- Original element: &apos;quiz01.quiz05.GeometricObject.java&apos;" description="Copy compilation unit" destination="=Ch11_Interface/src&lt;quiz01.quiz05" element1="/src&lt;quiz01.quiz05{GeometricObject.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1661496137637" units="1" version="1.0"/>
+</session>

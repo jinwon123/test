@@ -1,0 +1,17 @@
+package quiz01.quiz05;
+
+public class seperatevolume implements Lendable {
+
+	@Override
+	public void checkOut(String borrower, String data) {
+		// TODO Auto-generated method stub
+
+	}
+
+	@Override
+	public void checkIn() {
+		// TODO Auto-generated method stub
+
+	}
+
+}

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<typeInfoHistroy>
+    <typeInfo handle="=Ch10_Inheritance/src&lt;p01.basic{Researcher.java[Researcher" modifiers="1" timestamp="1660216413000"/>
+    <typeInfo handle="=Ch10_Inheritance/src&lt;p01.basic{Student.java[Student" modifiers="1" timestamp="1660217011000"/>
+    <typeInfo handle="=Ch10_Inheritance/src&lt;p01.basic2{Point.java[Point" modifiers="1" timestamp="1660633131000"/>
+    <typeInfo handle="=Ch10_Inheritance/src&lt;p02.superclass_constructor{Parent.java[Parent" modifiers="1" timestamp="1660637191000"/>
+    <typeInfo handle="=Ch10_Inheritance/src&lt;p02.superclass_constructor4{People.java[People" modifiers="1" timestamp="1660640081000"/>
+    <typeInfo handle="=Ch10_Inheritance/src&lt;p03.method_override{Shape.java[Shape" modifiers="1" timestamp="1660640981000"/>
+    <typeInfo handle="=Ch10_Inheritance/src&lt;p03.method_override3{Airplane.java[Airplane" modifiers="1" timestamp="1660645579000"/>
+    <typeInfo handle="=Ch10_Inheritance/src&lt;p04.final_class{Car.java[Car" modifiers="17" timestamp="1660647765000"/>
+    <typeInfo handle="=Ch10_Inheritance/src&lt;p05.protected_access_modifier.pkg1{A.java[A" modifiers="1" timestamp="1660648574000"/>
+    <typeInfo handle="=Ch10_Inheritance/src&lt;p01.basic{Person.java[Person" modifiers="1" timestamp="1660216413000"/>
+    <typeInfo handle="=Ch10_Inheritance/src&lt;p06.class_promotion{Person.java[Person" modifiers="1" timestamp="1660649888000"/>
+    <typeInfo handle="=Ch10_Inheritance/src&lt;p08.polymorphism{Parent.java[Parent" modifiers="1" timestamp="1660720440000"/>
+    <typeInfo handle="=Ch10_Inheritance/src&lt;p08.polymorphism3{Vehicle.java[Vehicle" modifiers="1" timestamp="1660723320000"/>
+    <typeInfo handle="=Ch10_Inheritance/src&lt;p08.polymorphism4{Tire.java[Tire" modifiers="1" timestamp="1660725759000"/>
+    <typeInfo handle="=Ch10_Inheritance/src&lt;p10.abstract_class{Phone.java[Phone" modifiers="1025" timestamp="1660731425000"/>
+    <typeInfo handle="=Ch10_Inheritance/src&lt;p10.abstract_method{Animal.java[Animal" modifiers="1025" timestamp="1660732347000"/>
+    <typeInfo handle="=Ch10_Inheritance/src&lt;p11.practice{GeometricObject.java[GeometricObject" modifiers="1" timestamp="1660735903000"/>
+    <typeInfo handle="=Ch11_Interface/src&lt;p01.basic{RemoteControl.java[RemoteControl" modifiers="513" timestamp="1660893587000"/>
+    <typeInfo handle="=Ch11_Interface/src&lt;p04.polymorphism{Tire.java[Tire" modifiers="513" timestamp="1660899323000"/>
+    <typeInfo handle="=Ch11_Interface/src&lt;p04.polymorphism2{Vehicle.java[Vehicle" modifiers="513" timestamp="1660903894000"/>
+    <typeInfo handle="=Ch11_Interface/src&lt;p06.interface_inheritance{InterfaceA.java[InterfaceA" modifiers="513" timestamp="1660903928000"/>
+    <typeInfo handle="=Ch11_Interface/src&lt;p06.interface_inheritance{InterfaceB.java[InterfaceB" modifiers="513" timestamp="1660903949000"/>
+    <typeInfo handle="=Ch11_Interface/src&lt;p06.interface_inheritance{InterfaceC.java[InterfaceC" modifiers="513" timestamp="1660904600000"/>
+    <typeInfo handle="=Ch11_Interface/src&lt;p07.default_method_inheritance{ParentInterface.java[ParentInterface" modifiers="513" timestamp="1660904975000"/>
+    <typeInfo handle="=Ch11_Interface/src&lt;p01.basic2{Phone.java[Phone" modifiers="513" timestamp="1660895284000"/>
+    <typeInfo handle="=Ch11_Interface/src&lt;p08.practice1{PhoneInterface.java[PhoneInterface" modifiers="513" timestamp="1660907633000"/>
+    <typeInfo handle="=Ch11_Interface/src&lt;p08.practice1{PDA.java[PDA" modifiers="1" timestamp="1660907633000"/>
+    <typeInfo handle="=Ch11_Interface/src&lt;p08.practice1{MP3Interface.java[MP3Interface" modifiers="513" timestamp="1660907633000"/>
+    <typeInfo handle="=Ch11_Interface/src&lt;p08.practice1{MobilePhoneInterface.java[MobilePhoneInterface" modifiers="513" timestamp="1660907633000"/>
+    <typeInfo handle="=Ch11_Interface/src&lt;p08.practice2{Edible.java[Edible" modifiers="513" timestamp="1660908673000"/>
+    <typeInfo handle="=Ch11_Interface/src&lt;p08.practice2{Fruit.java[Fruit" modifiers="1025" timestamp="1660908673000"/>
+    <typeInfo handle="=Ch11_Interface/src&lt;p08.practice2{Animal.java[Animal" modifiers="1025" timestamp="1660908673000"/>
+    <typeInfo handle="=Ch12_Nested_Class_Interface/src&lt;p03.anonymous_class{Person.java[Person" modifiers="1" timestamp="1661155050000"/>
+    <typeInfo handle="=Ch14_JavaAPI/src&lt;p05.class_class_practice{Action.java[Action" modifiers="513" timestamp="1661326379000"/>
+    <typeInfo handle="=Ch14_JavaAPI/\/Library\/Internet Plug-Ins\/JavaAppletPlugin.plugin\/Contents\/Home\/lib\/rt.jar=/javadoc_location=/https:\/\/docs.oracle.com\/javase\/8\/docs\/api\/=/&lt;java.lang(Comparable.class[Comparable" modifiers="1537" timestamp="1655394737000"/>
+    <typeInfo handle="=Ch11_Interface/src&lt;quiz01.quiz05{CDInfo.java[CDInfo" modifiers="1" timestamp="1661497748000"/>
+    <typeInfo handle="=Ch11_Interface/src&lt;quiz01.quiz05{Lendable.java[Lendable" modifiers="513" timestamp="1661497369000"/>
+    <typeInfo handle="=Ch11_Interface/src&lt;quiz01.quiz05{Soundable.java[Soundable" modifiers="513" timestamp="1661511070000"/>
+    <typeInfo handle="=Ch11_Interface/src&lt;quiz01.quiz05{DataAccessObject.java[DataAccessObject" modifiers="513" timestamp="1661511962000"/>
+    <typeInfo handle="=Ch13_Exception/\/Library\/Internet Plug-Ins\/JavaAppletPlugin.plugin\/Contents\/Home\/lib\/rt.jar=/javadoc_location=/https:\/\/docs.oracle.com\/javase\/8\/docs\/api\/=/&lt;java.lang(Exception.class[Exception" modifiers="33" timestamp="1655394737000"/>
+</typeInfoHistroy>

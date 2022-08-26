@@ -1,0 +1,25 @@
+package p06.string_methods;
+
+import java.io.UnsupportedEncodingException;
+
+public class StringGetBytesEx {
+
+	public static void main(String[] args) {
+		String str = "안녕하세요";
+		
+		byte[] b1 = str.getBytes();
+		System.out.println("b1 length : " + b1.length);
+		String s1 = new String(b1);
+		System.out.println(s1);
+
+		try {
+			byte[] b2 = str.getBytes("EUC-KR");
+			System.out.println("b2 length : " + b2.length);
+			String s2 = new String(b2);
+			System.out.println(s2);
+		} catch (UnsupportedEncodingException e) {
+			System.out.println("Java에서 지원하지 않는 문자 encoding 방식 Exception 발생");
+		}
+	}
+
+}

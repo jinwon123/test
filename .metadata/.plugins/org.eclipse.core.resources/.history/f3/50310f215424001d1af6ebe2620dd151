@@ -1,0 +1,15 @@
+package p11.wrapper_class;
+
+public class ValueCompareEx {
+
+	public static void main(String[] args) {
+		Integer obj1 = 300;
+		Integer obj2 = 300;
+		
+		System.out.println("obj1 == obj2 : " + (obj1==obj2));
+		System.out.println("unboxing 후 obj1 == obj2 : " + (obj1.intValue() == obj2.intValue()));
+		System.out.println("(obj1.equals(obj2) : " + obj1.equals(obj2));
+
+	}
+
+}

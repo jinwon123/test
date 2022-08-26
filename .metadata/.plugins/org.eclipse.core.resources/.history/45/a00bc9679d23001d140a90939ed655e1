@@ -1,0 +1,27 @@
+package p08.stringbuilder_class;
+
+public class StringBuilderEx {
+
+	public static void main(String[] args) {
+		StringBuilder sb = new StringBuilder();
+		
+		sb.append("Java");
+		sb.append("Programming study");
+		System.out.println(sb);
+		
+		sb.insert(4, "2");
+		System.out.println(sb);
+		
+		sb.setCharAt(4, '6');
+		System.out.println(sb);
+		
+		sb.replace(6, 13, "Book");
+		System.out.println(sb);
+		
+		sb.delete(4, 5);
+		System.out.println(sb);
+		
+		System.out.println("총문자수 : " + sb.length());
+	}
+
+}

@@ -1,0 +1,10 @@
+package p01.object_class_equals;
+
+public class ObjectEqualsEx {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

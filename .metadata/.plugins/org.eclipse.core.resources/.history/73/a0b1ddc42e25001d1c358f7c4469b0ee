@@ -1,0 +1,14 @@
+package quiz01.quiz05;
+
+public class Cat implements Soundable {
+
+	@Override
+	public String sound() {
+		return "냐옹";
+	}
+	
+	public void printSound(Object obj){
+		System.out.println(((Cat) obj).sound());
+	}
+
+}
