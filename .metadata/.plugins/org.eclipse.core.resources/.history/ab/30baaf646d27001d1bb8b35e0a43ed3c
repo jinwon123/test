@@ -1,0 +1,13 @@
+package p05.restricted_generic;
+
+public class Course<T> {
+	private String name;
+	private T[] students;
+	
+	public Course(String name, int capacity) {
+		this.name = name;
+		this.students = (T[]) new Object[capacity];
+//		this.students = new T[capacity];
+	}
+
+}
