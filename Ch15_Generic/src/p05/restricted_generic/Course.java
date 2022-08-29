@@ -3,10 +3,11 @@ package p05.restricted_generic;
 public class Course<T> {
 	private String name;
 	private T[] students;
+	double a;
 	
 	public Course(String name, int capacity) {
 		this.name = name;
-		this.students = (T[]) new Object[capacity];
+		this.students = (T[]) new Object[capacity];	// new로 인스턴스 만들면 모든 참조타입의 field값은 null로 setting된다. 
 //		this.students = new T[capacity];
 	}
 
