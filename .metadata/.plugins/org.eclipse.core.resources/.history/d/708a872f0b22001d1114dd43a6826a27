@@ -1,5 +1,0 @@
-package p02.runtime_exception;
-
-public class ArrayIndexOutOfBoundsExceptionEx {
-
-}
