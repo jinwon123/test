@@ -1,21 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-    <fullyQualifiedTypeName name="java.lang.annotation.RetentionPolicy"/>
-    <fullyQualifiedTypeName name="java.lang.annotation.ElementType"/>
-    <fullyQualifiedTypeName name="java.lang.annotation.Target"/>
-    <fullyQualifiedTypeName name="java.lang.ReflectiveOperationException"/>
-    <fullyQualifiedTypeName name="p03.method_override3.SuperSonicAirplane"/>
-    <fullyQualifiedTypeName name="p11.practice.GeometricObject"/>
-    <fullyQualifiedTypeName name="p11.practice2.GeometricObject"/>
-    <fullyQualifiedTypeName name="p01.basic.RemoteControl"/>
-    <fullyQualifiedTypeName name="p02.anonymous_instance.RemoteControl"/>
-    <fullyQualifiedTypeName name="p03.default_static_method.RemoteControl"/>
-    <fullyQualifiedTypeName name="p06.interface_inheritance.ImplementationC"/>
-    <fullyQualifiedTypeName name="p07.default_method_inheritance.ChildInterface"/>
-    <fullyQualifiedTypeName name="p07.default_method_inheritance2.ChildInterface"/>
-    <fullyQualifiedTypeName name="p01.nested_class.A.B"/>
-    <fullyQualifiedTypeName name="p01.nested_class.A.C"/>
-    <fullyQualifiedTypeName name="p02.nested_interface.Button.OnClickListener"/>
     <fullyQualifiedTypeName name="p02.nested_interface.CallListener"/>
     <fullyQualifiedTypeName name="p02.nested_interface.MessageListener"/>
     <fullyQualifiedTypeName name="p03.anonymous_class.Person"/>
@@ -53,11 +37,27 @@
     <fullyQualifiedTypeName name="p01.basic.MyInterface"/>
     <fullyQualifiedTypeName name="java.lang.FunctionalInterface"/>
     <fullyQualifiedTypeName name="p01.basic2.MyFunctionalInterfaceEx"/>
-    <fullyQualifiedTypeName name="java.awt.List"/>
     <fullyQualifiedTypeName name="java.util.Vector"/>
-    <fullyQualifiedTypeName name="java.util.ArrayList"/>
-    <fullyQualifiedTypeName name="java.util.Scanner"/>
-    <fullyQualifiedTypeName name="java.util.Iterator"/>
     <fullyQualifiedTypeName name="java.util.Arrays"/>
     <fullyQualifiedTypeName name="java.lang.LinkageError"/>
+    <fullyQualifiedTypeName name="java.awt.List"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="java.util.HashSet"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="java.util.Set"/>
+    <fullyQualifiedTypeName name="java.util.Iterator"/>
+    <fullyQualifiedTypeName name="java.util.Map.Entry"/>
+    <fullyQualifiedTypeName name="java.util.Map"/>
+    <fullyQualifiedTypeName name="java.util.HashMap"/>
+    <fullyQualifiedTypeName name="p05.hashmap2.Student"/>
+    <fullyQualifiedTypeName name="java.util.Properties"/>
+    <fullyQualifiedTypeName name="java.net.URLDecoder"/>
+    <fullyQualifiedTypeName name="java.io.FileReader"/>
+    <fullyQualifiedTypeName name="java.util.Stack"/>
+    <fullyQualifiedTypeName name="p07.stack_ex.Coin"/>
+    <fullyQualifiedTypeName name="java.util.Queue"/>
+    <fullyQualifiedTypeName name="java.util.concurrent.LinkedBlockingDeque"/>
+    <fullyQualifiedTypeName name="java.util.LinkedList"/>
+    <fullyQualifiedTypeName name="p08.queue_ex.Message"/>
 </qualifiedTypeNameHistroy>
