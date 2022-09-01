@@ -18,10 +18,10 @@ public class ArrayListEx2 {
 			}
 		}
 		
-		removeDuplicate(list);
+		removeDuplicate((ArrayList<Integer>) list);
 		
 	}
-	public static void removeDuplicate(List<Integer> list) {
+	public static void removeDuplicate(ArrayList<Integer> list) {
 		List<Integer> list2 = new ArrayList<Integer>();
 		for (int i=0; i<list.size(); i++) {
 		if (!list2.contains(list.get(i))) {

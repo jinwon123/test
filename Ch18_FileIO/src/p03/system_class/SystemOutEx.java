@@ -3,6 +3,8 @@ package p03.system_class;
 import java.io.IOException;
 import java.io.OutputStream;
 
+// System.err : 개발자가 console창에 에러메세지를 보여줄 때 사용
+// - 빨간 글씨로 출력
 public class SystemOutEx {
 
 	public static void main(String[] args) throws IOException {

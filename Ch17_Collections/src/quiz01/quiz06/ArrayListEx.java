@@ -27,10 +27,10 @@ public class ArrayListEx {
 			}
 		}
 		
-		System.out.println(union(list1, list2));
+		 System.out.println("union 결과 " + union((ArrayList<Integer>)list1, (ArrayList<Integer>)list2));
 		
 	}
-	public static ArrayList<Integer> union(List<Integer> list1, List<Integer> list2) {
+	public static ArrayList<Integer> union(ArrayList<Integer> list1, ArrayList<Integer> list2) {
 		list1.addAll(list2);
 		return (ArrayList<Integer>) list1;
 	}
