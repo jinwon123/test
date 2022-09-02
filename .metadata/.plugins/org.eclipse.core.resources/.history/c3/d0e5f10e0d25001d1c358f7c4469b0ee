@@ -1,7 +1,0 @@
-package quiz1;
-
-public interface Colorable {
-	
-	String howToColor();
-
-}
