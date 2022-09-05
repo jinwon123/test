@@ -1,5 +1,0 @@
-package quiz01.quiz05;
-
-public class WrongPasswordException extends Exception {
-
-}
